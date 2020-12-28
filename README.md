@@ -2,23 +2,23 @@ LEADtabs Generator
 
 ### Remarks
 
-LEADtabs Generator is an obfuscated guitar riff generator which:
-**creates random guitar tabs
-**uses notes up to the 20th fret
-**is very simple in usage
+LEADtabs Generator is an obfuscated guitar riff generator which:<br>
+**creates random guitar tabs<br>
+**uses notes up to the 20th fret<br>
+**is very simple in usage<br>
 
 ### Example
 
---------------12----------10--5----------
---10------17----1-------------14----8----
-------------5-----18--4-1---12----12--9--
---5---------------------2---------17-----
---3-----4-----------------12-------------
---3-17--------------16--------------6----
+--------------12----------10--5----------<br>
+--10------17----1-------------14----8----<br>
+------------5-----18--4-1---12----12--9--<br>
+--5---------------------2---------17-----<br>
+--3-----4-----------------12-------------<br><br>
+--3-17--------------16--------------6----<br>
 
-![alt tag](https://raw.githubusercontent.com/ScriptDonkey/leadtabs/master/circuit.png)
+![alt tag](https://raw.githubusercontent.com/fsiamp/leadtabs/master/circuit.png)
 
-![alt tag](https://raw.githubusercontent.com/ScriptDonkey/leadtabs/master/tablature.png)
+![alt tag](https://raw.githubusercontent.com/fsiamp/leadtabs/master/tablature.png)
 
 ### Obfuscation
 
