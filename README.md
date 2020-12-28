@@ -1,5 +1,3 @@
-LEADtabs Generator
-
 ![alt tag](https://raw.githubusercontent.com/fsiamp/leadtabs/master/assets/Fgi4ah1467818187.png)
 
 ### Remarks
