@@ -2,7 +2,7 @@
 
 ### Remarks
 
-LEADtabs Generator is an obfuscated guitar riff generator which:<br>
+LEADtabs is an obfuscated guitar riff generator which:<br>
 **creates random guitar tabs<br>
 **uses notes up to the 20th fret<br>
 **is very simple in usage<br>
