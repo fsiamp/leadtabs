@@ -1,0 +1,34 @@
+LEADtabs Generator
+
+### Remarks
+
+LEADtabs Generator is an obfuscated guitar riff generator which:
+**creates random guitar tabs
+**uses notes up to the 20th fret
+**is very simple in usage
+
+### Example
+
+--------------12----------10--5----------
+--10------17----1-------------14----8----
+------------5-----18--4-1---12----12--9--
+--5---------------------2---------17-----
+--3-----4-----------------12-------------
+--3-17--------------16--------------6----
+
+
+### Obfuscation
+
+In this program, mainly I make use of whitespace by displaying ASCII text. Especially, a guitar pick, the word 'RIFF', a classical guitar, the word 'AC/DC' and a gun are portrayed in the code of this program.
+
+Another obfuscation technique that takes place is lexical transformation as names of variables are swapped.
+
+Moreover, array splitting and comment randomization are used in order to confuse the reader on which part of code is really read by the program.
+
+### Usage
+
+To build:  make prog.c
+
+To run:  ./prog
+
+To compile:  gcc prog.c -std=c99 -o prog
