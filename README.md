@@ -1,4 +1,4 @@
-![alt tag](https://raw.githubusercontent.com/fsiamp/leadtabs/master/assets/Fgi4ah1467818187.png)
+![alt tag](https://raw.githubusercontent.com/fsiamp/leadtabs-obfuscation/master/assets/Fgi4ah1467818187.png)
 
 ### Remarks
 
@@ -16,9 +16,9 @@ LEADtabs is an obfuscated guitar riff generator which:<br>
 --3-----4-----------------12-------------<br><br>
 --3-17--------------16--------------6----<br>
 
-![alt tag](https://raw.githubusercontent.com/fsiamp/leadtabs/master/assets/BSDJG9323426AS.png)
+![alt tag](https://raw.githubusercontent.com/fsiamp/leadtabs-obfuscation/master/assets/BSDJG9323426AS.png)
 
-![alt tag](https://raw.githubusercontent.com/fsiamp/leadtabs/master/tablature.png)
+![alt tag](https://raw.githubusercontent.com/fsiamp/leadtabs-obfuscation/master/tablature.png)
 
 ### Obfuscation
 
